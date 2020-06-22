@@ -1,3 +1,20 @@
+# Diego Simonelli Portfolio
+
+You can use this template but always giving the right credit
+
+Instruction to run:  
+1)Clone the repo
+
+2)Edit the data.js file in src folder
+
+3)Run:
+`npm install`
+
+4)Run:
+`npm start`
+
+# Default README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

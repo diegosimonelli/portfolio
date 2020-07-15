@@ -12,7 +12,11 @@ export default class Footer extends Component {
                 data.socialLinks.map((item) => {
                   return (
                     <li>
-                      <a href={item.url}>
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <i className={item.className} />
                       </a>
                     </li>

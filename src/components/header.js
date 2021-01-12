@@ -60,8 +60,6 @@ export default class Header extends Component {
                     500,
                     "Full Stack Software Engineer 📱",
                     500,
-                    "Full Stack Software Engineer 🖥️",
-                    500,
                     "Full Stack Software Engineer 💾",
                     500,
                     "Full Stack Software Engineer 🕹️",

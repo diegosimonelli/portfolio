@@ -451,6 +451,16 @@ ul#nav li.current a {
   -moz-animation: java 2s ease;
   -webkit-animation: java 2s ease;
 }
+.python {
+  width: 80%;
+  -moz-animation: python 2s ease;
+  -webkit-animation: python 2s ease;
+}
+.cpp {
+  width: 60%;
+  -moz-animation: cpp 2s ease;
+  -webkit-animation: cpp 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0% {
@@ -505,6 +515,22 @@ ul#nav li.current a {
     width: 0px;
   }
   100% {
+    width: 80%;
+  }
+}
+@-moz-keyframes python {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@-moz-keyframes cpp {
+  0% {
+    width: 0px;
+  }
+  100% {
     width: 60%;
   }
 }
@@ -514,7 +540,7 @@ ul#nav li.current a {
     width: 0px;
   }
   100% {
-    width: 60%;
+    width: 70%;
   }
 }
 @-webkit-keyframes illustrator {
@@ -563,6 +589,22 @@ ul#nav li.current a {
   }
   100% {
     width: 80%;
+  }
+}
+@-webkit-keyframes python {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@-webkit-keyframes cpp {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 60%;
   }
 }
 

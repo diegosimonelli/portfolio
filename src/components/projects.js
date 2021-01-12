@@ -9,7 +9,7 @@ export default class Projects extends Component {
         <div className="row">
           <div className="twelve columns collapsed">
             <h1>
-              <span>Check Out Some of My Projects.</span>
+              <span>Check Out Some of My Projects</span>
             </h1>
             {/* portfolio-wrapper */}
             <div

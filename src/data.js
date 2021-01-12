@@ -33,14 +33,14 @@ let data = {
       specialization: "Computer Science",
       MonthOfPassing: "December",
       YearOfPassing: "2020",
-      //"Achievements":"Some Achievements"
+      "Achievements":"GPA: 3.2"
     },
     {
       UniversityName: "Santa Fe College",
       specialization: "Computer Science",
       MonthOfPassing: "April",
       YearOfPassing: "2017",
-      //"Achievements":"Some Achievements"
+      "Achievements":"GPA: 3.16"
     },
   ],
   work: [
@@ -60,21 +60,21 @@ let data = {
     },
   ],
   skillsDescription:
-    "• Proficiency in Java, JavaScript, React, NodeJS, HTML/CSS, MongoDB, C, C++, OOP, Agile Methodologies, Scrum, MySQL, Data Structures, Computer Organization, Microsoft Office, MS Exchange.",
+    "• Proficiency in Java, Python, JavaScript(React), HTML/CSS, NodeJS, C++, MongoDB, SQL, GitHub, Figma, Microsoft office.",
   skillsDescription2:
-    "• Proficiency working on PowerShell, Command Prompt and Terminal.",
+    "• Proficiency working on Windows, MacOS, Linux.",
   skills: [
     {
-      skillname: "react",
+      skillname: "java",
+    },
+    {
+      skillname: "python",
     },
     {
       skillname: "javascript",
     },
     {
-      skillname: "nodejs",
-    },
-    {
-      skillname: "java",
+      skillname: "cpp",
     },
   ],
   portfolio: [

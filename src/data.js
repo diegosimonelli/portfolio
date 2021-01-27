@@ -24,7 +24,7 @@ let data = {
     },
   ],
   aboutme:
-    "I am a senior Computer Science student at University of Florida (UF). I have been working as a software engineer since I started my degree in 2015. I have experience working on Javascript, React, NodeJS, HTML/CSS, MongoDB, MySQL, Java, C and C++.",
+    "In December of 2020, I graduated from the University of Florida with a Bachelor of Science in Computer Science. My main experience is programming with Java and Python, and working on Web Development with Javascript(React)/HTML/CSS, NodeJS, and MongoDB, although I have knowledge with C++ and C# in Unity (Game Development). I have strong technical skills, including understanding algorithms and puzzles.",
   address: "Gainesville, FL",
   //"website":"https://www.codeclassifiers.com",
   education: [

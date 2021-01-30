@@ -60,7 +60,7 @@ let data = {
     },
   ],
   skillsDescription:
-    "• Proficiency in Java, Python, JavaScript(React), HTML/CSS, NodeJS, C++, MongoDB, SQL, GitHub, Figma, Microsoft office.",
+    "• Proficiency in Java, Python, JavaScript(React), HTML/CSS, NodeJS, C++, MongoDB, SQL, Git, Figma, Microsoft office.",
   skillsDescription2:
     "• Proficiency working on Windows, MacOS, Linux.",
   skills: [

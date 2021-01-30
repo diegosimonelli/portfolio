@@ -9,7 +9,7 @@ let data = {
   socialLinks: [
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/",
+      url: "https://www.linkedin.com/in/diego-simonelli/",
       className: "fa fa-linkedin",
     },
     {

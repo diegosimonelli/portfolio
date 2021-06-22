@@ -25,7 +25,7 @@ export default class Footer extends Component {
             </ul>
             {
               <ul className="copyright">
-                <li>© Copyright 2020 Diego Simonelli</li>
+                <li>© Copyright 2021 Diego Simonelli</li>
                 <li>All rights reserved</li>
               </ul>
             }

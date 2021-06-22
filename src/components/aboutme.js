@@ -46,7 +46,7 @@ export default class AboutMe extends Component {
                 <p>
                   <a
                     className="button"
-                    href="DiegoSimonelli-Resume.pdf"
+                    href="DiegoSimonelliResume-2021.pdf"
                     download
                   >
                     <i className="fa fa-download" />

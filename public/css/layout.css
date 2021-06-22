@@ -437,7 +437,7 @@ ul#nav li.current a {
   -webkit-animation: nodejs 2s ease;
 }
 .javascript {
-  width: 70%;
+  width: 80%;
   -moz-animation: javascript 2s ease;
   -webkit-animation: javascript 2s ease;
 }
@@ -452,7 +452,7 @@ ul#nav li.current a {
   -webkit-animation: java 2s ease;
 }
 .python {
-  width: 80%;
+  width: 70%;
   -moz-animation: python 2s ease;
   -webkit-animation: python 2s ease;
 }
@@ -499,7 +499,7 @@ ul#nav li.current a {
     width: 0px;
   }
   100% {
-    width: 70%;
+    width: 80%;
   }
 }
 @-moz-keyframes react {
@@ -523,7 +523,7 @@ ul#nav li.current a {
     width: 0px;
   }
   100% {
-    width: 80%;
+    width: 70%;
   }
 }
 @-moz-keyframes cpp {
@@ -572,7 +572,7 @@ ul#nav li.current a {
     width: 0px;
   }
   100% {
-    width: 70%;
+    width: 80%;
   }
 }
 @-webkit-keyframes react {
@@ -596,7 +596,7 @@ ul#nav li.current a {
     width: 0px;
   }
   100% {
-    width: 80%;
+    width: 70%;
   }
 }
 @-webkit-keyframes cpp {

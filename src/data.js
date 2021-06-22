@@ -24,8 +24,8 @@ let data = {
     },
   ],
   aboutme:
-    "In December of 2020, I graduated from the University of Florida with a Bachelor of Science in Computer Science. My main experience is programming with Java and Python, and working on Web Development with Javascript(React)/HTML/CSS, NodeJS, and MongoDB, although I have knowledge with C++ and C# in Unity (Game Development). I have strong technical skills, including understanding algorithms and puzzles.",
-  address: "Gainesville, FL",
+    "Graduated from the University of Florida with a Bachelor of Science in Computer Science. Main experience: programming with Java, Angular, React JS, CSS, NodeJS, and MongoDB, although I have knowledge with Python, C++, SQL and C# in Unity (Game Development). I have strong technical skills, including understanding algorithms and puzzles.",
+  address: "Miami, FL",
   //"website":"https://www.codeclassifiers.com",
   education: [
     {
@@ -35,43 +35,49 @@ let data = {
       YearOfPassing: "2020",
       "Achievements":"GPA: 3.2"
     },
-    {
+    /*{
       UniversityName: "Santa Fe College",
       specialization: "Computer Science",
       MonthOfPassing: "April",
       YearOfPassing: "2017",
       "Achievements":"GPA: 3.16"
-    },
+    },*/
   ],
   work: [
     {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      Achievements: "Some Achievements",
+      CompanyName: "Tata Consultancy Services",
+      specialization: "Software Engineer",
+      MonthOfLeaving: "Mar",
+      YearOfLeaving: "2021 - Present",
+      //Achievements: "- Worked as a developer in an Agile Scrum team of 11 to build a web app using Angular, CSS, NodeJS and MongoDB. We used tools like Git (version control), Microsoft Teams (communication), and Figma (wireframes). - Lead an Agile Scrum team of 10 developers as a Scrum Master and perform engineering and development changes as a Software Engineer on a project where we created a website with Java, JSP, SQL, HTML/CSS.",
+      jobAddress: "Remote",
     },
     {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      Achievements: "Some Achievements",
+      CompanyName: "Macy's",
+      specialization: "Software Engineer - Internship",
+      MonthOfLeaving: "May",
+      YearOfLeaving: "2020 - Jul 2020",
+      //Achievements: "Some Achievements",
+      jobAddress: "Johns Creek, Georgia, USA",
     },
   ],
   skillsDescription:
-    "• Proficiency in Java, Python, JavaScript(React), HTML/CSS, NodeJS, C++, MongoDB, SQL, Git, Figma, Microsoft office.",
+    "• Programming Languages: Java, Angular, ReactJS, NodeJS, JavaScript/HTML/CSS/SCSS, Python, C++, MongoDB, SQL",
   skillsDescription2:
-    "• Proficiency working on Windows, MacOS, Linux.",
+    "• Operating Systems: Windows, MacOS, Linux",
+  skillsDescription3:
+    "• Technical Tools: Git, Figma, Photoshop, Microsoft Office",
+  skillsDescription4:
+    "• Other Skills: Bilingual (English, Spanish)",
   skills: [
     {
       skillname: "java",
     },
     {
-      skillname: "python",
+      skillname: "javascript",
     },
     {
-      skillname: "javascript",
+      skillname: "python",
     },
     {
       skillname: "cpp",

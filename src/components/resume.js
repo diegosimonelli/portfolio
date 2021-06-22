@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { isCompositeComponent } from "react-dom/test-utils";
 
 export default class Resume extends Component {
   render() {
@@ -33,7 +34,7 @@ export default class Resume extends Component {
               })}
           </div>
         </div>
-        {/*<div className="row work">
+        <div className="row work">
             <div className="three columns header-col">
                <h1><span>Work</span></h1>
             </div>
@@ -46,8 +47,10 @@ export default class Resume extends Component {
                        <div className="twelve columns">
                           <h3>{item.CompanyName}</h3>
                           <p className="info">
-                          {item.specialization}
-                          <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
+                            {item.specialization}
+                            <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em>
+                          </p>
+                          <p> <span>&#10143;</span> <em className="date">{item.jobAddress}</em></p>
                           <p>
                           {item.Achievements}
                           </p>
@@ -59,7 +62,7 @@ export default class Resume extends Component {
                 })
               }
             </div> 
-            </div>*/}
+            </div>
 
         <div className="row skill">
           <div className="three columns header-col">
@@ -70,6 +73,8 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <p>{data.skillsDescription}</p>
             <p>{data.skillsDescription2}</p>
+            <p>{data.skillsDescription3}</p>
+            <p>{data.skillsDescription4}</p>
             <div className="bars">
               <ul className="skills">
                 {data.skills &&

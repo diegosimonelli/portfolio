@@ -52,7 +52,10 @@ export default class Resume extends Component {
                           </p>
                           <p> <span>&#10143;</span> <em className="date">{item.jobAddress}</em></p>
                           <p>
-                          {item.Achievements}
+                          {item.Achievements1}
+                          </p>
+                          <p>
+                            {item.Achievements2}
                           </p>
                        </div>
 

@@ -49,7 +49,16 @@ let data = {
       specialization: "Software Engineer",
       MonthOfLeaving: "Mar",
       YearOfLeaving: "2021 - Present",
-      //Achievements: "- Worked as a developer in an Agile Scrum team of 11 to build a web app using Angular, CSS, NodeJS and MongoDB. We used tools like Git (version control), Microsoft Teams (communication), and Figma (wireframes). - Lead an Agile Scrum team of 10 developers as a Scrum Master and perform engineering and development changes as a Software Engineer on a project where we created a website with Java, JSP, SQL, HTML/CSS.",
+      //Achievements1: "- Worked as a developer in an Agile Scrum team of 11 to build a web app using Angular, CSS, NodeJS and MongoDB. We used tools like Git (version control), Microsoft Teams (communication), and Figma (wireframes).",
+      jobAddress: "Remote",
+    },
+    {
+      CompanyName: "Webster Bank",
+      specialization: "Production Support Engineer",
+      MonthOfLeaving: "Jun",
+      YearOfLeaving: "2021 - Present",
+      //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
+      //Achievements2: "- Collaboratively working with the Security and Audit departments to create, maintain and administrate user accounts and system configurations on a vast array of applications (creating and administering applications through Active Directory and Microsoft Exchange)",
       jobAddress: "Remote",
     },
     {

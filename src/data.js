@@ -24,8 +24,8 @@ let data = {
     },
   ],
   aboutme:
-    "Graduated from the University of Florida with a Bachelor of Science in Computer Science. Main experience: programming with Java, Angular, React JS, CSS, NodeJS, and MongoDB, although I have knowledge with Python, C++, SQL and C# in Unity (Game Development). I have strong technical skills, including understanding algorithms and puzzles.",
-  address: "Miami, FL",
+    "Graduated from the University of Florida with a Bachelor of Science in Computer Science. Current Technology Architecture Delivery Analyst/Software Engineer at Accenture.",
+  address: "Tampa, FL",
   //"website":"https://www.codeclassifiers.com",
   education: [
     {
@@ -45,20 +45,29 @@ let data = {
   ],
   work: [
     {
-      CompanyName: "Tata Consultancy Services",
-      specialization: "Software Engineer",
-      MonthOfLeaving: "Mar",
-      YearOfLeaving: "2021 - Present",
-      //Achievements1: "- Worked as a developer in an Agile Scrum team of 11 to build a web app using Angular, CSS, NodeJS and MongoDB. We used tools like Git (version control), Microsoft Teams (communication), and Figma (wireframes).",
-      jobAddress: "Remote",
+      CompanyName: "Accenture",
+      specialization: "Technology Architecture Delivery Analyst | Software Engineer",
+      MonthOfLeaving: "Feb",
+      YearOfLeaving: "2022 - Present",
+      //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
+      //Achievements2: "- Collaboratively working with the Security and Audit departments to create, maintain and administrate user accounts and system configurations on a vast array of applications (creating and administering applications through Active Directory and Microsoft Exchange)",
+      jobAddress: "Tampa, FL, USA",
     },
     {
       CompanyName: "Webster Bank",
       specialization: "Production Support Engineer",
       MonthOfLeaving: "Jun",
-      YearOfLeaving: "2021 - Present",
+      YearOfLeaving: "2021 - Feb 2022",
       //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
       //Achievements2: "- Collaboratively working with the Security and Audit departments to create, maintain and administrate user accounts and system configurations on a vast array of applications (creating and administering applications through Active Directory and Microsoft Exchange)",
+      jobAddress: "Remote",
+    },
+    {
+      CompanyName: "Tata Consultancy Services",
+      specialization: "Software Engineer",
+      MonthOfLeaving: "Mar",
+      YearOfLeaving: "2021 - Feb 2022",
+      //Achievements1: "- Worked as a developer in an Agile Scrum team of 11 to build a web app using Angular, CSS, NodeJS and MongoDB. We used tools like Git (version control), Microsoft Teams (communication), and Figma (wireframes).",
       jobAddress: "Remote",
     },
     {
@@ -80,17 +89,17 @@ let data = {
     "• Other Skills: Bilingual (English, Spanish)",
   skills: [
     {
-      skillname: "java",
+      skillname: "javascript",
     },
     {
-      skillname: "javascript",
+      skillname: "java",
     },
     {
       skillname: "python",
     },
-    {
-      skillname: "cpp",
-    },
+    // {
+    //   skillname: "cpp",
+    // },
   ],
   portfolio: [
     {

@@ -33,7 +33,7 @@ let data = {
       specialization: "Computer Science",
       MonthOfPassing: "December",
       YearOfPassing: "2020",
-      "Achievements":"GPA: 3.2"
+      //"Achievements":"GPA: 3.2"
     },
     /*{
       UniversityName: "Santa Fe College",

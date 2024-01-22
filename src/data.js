@@ -24,7 +24,7 @@ let data = {
     },
   ],
   aboutme:
-    "Graduated from the University of Florida with a Bachelor of Science in Computer Science. Current Technology Architecture Delivery Analyst/Software Engineer at Accenture.",
+    "Graduated from the University of Florida with a Bachelor of Science in Computer Science. Current Software Engineer at Accenture.",
   address: "Tampa, FL",
   //"website":"https://www.codeclassifiers.com",
   education: [
@@ -46,9 +46,18 @@ let data = {
   work: [
     {
       CompanyName: "Accenture",
-      specialization: "Technology Architecture Delivery Analyst | Software Engineer",
+      specialization: "Technology Architecture Delivery Sr Analyst",
+      MonthOfLeaving: "Nov",
+      YearOfLeaving: "2023 - Present",
+      //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
+      //Achievements2: "- Collaboratively working with the Security and Audit departments to create, maintain and administrate user accounts and system configurations on a vast array of applications (creating and administering applications through Active Directory and Microsoft Exchange)",
+      //jobAddress: "Tampa, FL, USA",
+    },
+    {
+      //CompanyName: "Accenture",
+      specialization: "Technology Architecture Delivery Analyst",
       MonthOfLeaving: "Feb",
-      YearOfLeaving: "2022 - Present",
+      YearOfLeaving: "2022 - Nov 2023",
       //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
       //Achievements2: "- Collaboratively working with the Security and Audit departments to create, maintain and administrate user accounts and system configurations on a vast array of applications (creating and administering applications through Active Directory and Microsoft Exchange)",
       jobAddress: "Tampa, FL, USA",

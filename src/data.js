@@ -46,7 +46,7 @@ let data = {
   work: [
     {
       CompanyName: "Accenture",
-      specialization: "Technology Architecture Delivery Sr Analyst",
+      specialization: "Tech Architecture Sr Analyst",
       MonthOfLeaving: "Nov",
       YearOfLeaving: "2023 - Present",
       //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
@@ -55,7 +55,7 @@ let data = {
     },
     {
       //CompanyName: "Accenture",
-      specialization: "Technology Architecture Delivery Analyst",
+      specialization: "Tech Architecture Analyst",
       MonthOfLeaving: "Feb",
       YearOfLeaving: "2022 - Nov 2023",
       //Achievements1: "- Responsible for reviewing, inputting, and tracking the application and system access forms while meeting all SOX requirements, using the Service Now ticketing system.",
